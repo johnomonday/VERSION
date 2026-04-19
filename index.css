@@ -11,3 +11,8 @@ h1{
     text-align: center;
     padding: 20px;
 }
+header{
+    background-color: gold;
+    color: white;
+    padding: 10px;
+}
