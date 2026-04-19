@@ -15,4 +15,7 @@ header{
     background-color: gold;
     color: white;
     padding: 10px;
+    .features {
+        background-color: red;
+    }
 }
