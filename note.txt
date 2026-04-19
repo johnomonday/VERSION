@@ -1,0 +1,8 @@
+note.txt
+1 Initialazation: git init
+2 staging: (a.) git add file name{staging one file}
+           (b.) git add . {staging all the files at once.}
+3 commit: git commit -m "first commit"
+
+4 Push:
+        git push -u origin main
